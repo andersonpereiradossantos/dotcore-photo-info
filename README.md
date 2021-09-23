@@ -1,4 +1,4 @@
-# .NET Core MVC - Example to get EXIF data from images with EXIF Photo Reader library.
+# .NET Core MVC - Get EXIF data from images with EXIF Photo Reader library.
 
 [![Licence](https://img.shields.io/npm/l/react)](https://github.com/andersonpereiradossantos/dotcore-photo-info/blob/main/LICENSE) 
 
