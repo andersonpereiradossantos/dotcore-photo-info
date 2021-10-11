@@ -4,7 +4,7 @@
 
 # About code
 
-.NET Core MVC project to obtain EXIF ​​data (metadata including geolocation) from images with [EXIF Photo Reader](https://github.com/andersonpereiradossantos) library.
+.NET Core MVC project to obtain EXIF ​​data (metadata including geolocation) from images with [EXIF Photo Reader](https://github.com/andersonpereiradossantos/dotnet-exif-photo-reader) library.
 
 
 ![Presetion](https://raw.githubusercontent.com/andersonpereiradossantos/assets/main/dotcore-photo-info.gif)
@@ -21,6 +21,8 @@ git clone https://github.com/andersonpereiradossantos/dotcore-photo-info.git
 PM> Install-Package ExifPhotoReader
 ```
 
+## License
+This project is shared under the MIT license. This means you can modify and use it however you want, even for comercial use. If you liked it, consider marking a ⭐️.
 
 # Author
 
